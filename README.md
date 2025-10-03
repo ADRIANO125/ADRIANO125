@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdulrahman Kadri</h1>
+<h3 align="center">## A professional frontend developer from Egypt, passionate about building interactive, responsive, and modern web applications. Experienced with React, Tailwind CSS, and creating smooth animations with Framer Motion.</h3>
 
-<!--
-**ADRIANO125/ADRIANO125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **- **Self-improvement** – Enhancing my frontend skills, mastering React, Tailwind CSS, and Framer Motion, and building more interactive projects.**
 
-Here are some ideas to get you started:
+- ### 🔭 I’m currently working on **Advanced React patterns, Framer Motion animations, state management with Redux Toolkit, and Next.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Open-source frontend projects** [Focusing on React and Tailwind CSS]([Explore](https://github.com/ADRIANO125))
+
+- 🤝 I’m looking for help with [**Advanced animations & Framer Motion** – Optimizing animations and transitions in React projects]([Learn More](https://github.com/ADRIANO125))
+
+- 👨‍💻 All of my projects are available at [[Portfolio](https://venom-portfolio.netlify.app/)]([Portfolio](https://venom-portfolio.netlify.app/))
+
+- 📝 I regularly write articles on [LinkedIn: [Abdulrahman Kadri](https://linkedin.com/in/kadri-devlife)](LinkedIn: [Abdulrahman Kadri](https://linkedin.com/in/kadri-devlife))
+
+- 💬 Ask me about **- React, Framer Motion, Tailwind CSS, and frontend best practices**
+
+- 📫 How to reach me **Email: abdulrahmankadri12@gmail.com**
+
+- 📄 Know about my experiences [[Portfolio](https://venom-portfolio.netlify.app/)]([Portfolio](https://venom-portfolio.netlify.app/))
+
+- ⚡ Fun fact **“I write bugs faster than I fix them 😅”**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/[![linkedin](https://img.shields.io/badge/linkedin-abdulrahman%20kadri-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kadri-devlife)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[![linkedin](https://img.shields.io/badge/linkedin-abdulrahman%20kadri-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kadri-devlife)" height="30" width="40" /></a>
+<a href="https://fb.com/[![facebook](https://img.shields.io/badge/facebook-abdulrahman%20kadri-1877f2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/16vmromfdc/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[![facebook](https://img.shields.io/badge/facebook-abdulrahman%20kadri-1877f2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/16vmromfdc/)" height="30" width="40" /></a>
+<a href="https://instagram.com/[![instagram](https://img.shields.io/badge/instagram-@abdulrahman_kadri-e4405f?style=for-the-badge&logo=instagram)](https://www.instagram.com/abdulrahman_kadri?igsh=mwm0yxc0cwdvywo3mw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[![instagram](https://img.shields.io/badge/instagram-@abdulrahman_kadri-e4405f?style=for-the-badge&logo=instagram)](https://www.instagram.com/abdulrahman_kadri?igsh=mwm0yxc0cwdvywo3mw==)" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
