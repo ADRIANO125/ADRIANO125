@@ -1,213 +1,140 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
 
-# 👋 Hi, I'm Yousef Medhat
+# Hi 👋, I'm Abdulrahman Kadri
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JzcWVlc2MzMGJkam9mczk2ZHJnc3Nmajl0MmI5b3BvN210Ym1wdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400"/>
 
-<h3>🚀 Aspiring Full Stack Web Developer | MERN Stack Enthusiast</h3>
+### 🚀 Professional Frontend Developer from Egypt
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yousef-medhat.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-medhat56)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YousefMedhat56)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.medhat564@gmail.com)
+Passionate about building interactive, responsive, and modern web applications
 
-![Profile Views](https://komarev.com/ghpvc/?username=yousef-medhat56&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🔭 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmlmd3ByeGUxaGY0bTVtMHhyNjczYzh6b2NnMmVwcTUxcTllZ3prNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9LMNeWISnddECA/giphy.gif" width="300"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
 
-**Passionate web developer** dedicated to creating impactful digital experiences through clean, efficient code.
-
-I believe in **continuous learning**, **problem-solving**, and applying modern web technologies to build scalable, user-centric applications. My journey in web development is driven by curiosity and a commitment to mastering both frontend and backend development.
-
-### 🔭 Current Focus:
-- 🌱 Mastering **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 💻 Building full-stack applications with **Next.js** & **TypeScript**
-- 🔐 Implementing secure **Authentication & Authorization** systems
-- 📚 Learning **PostgreSQL** for advanced database management
-- 🧪 Writing clean, testable code with **Jasmine**
-
-### ⚡ Fun Facts:
-- 💡 I write code that works... *most of the time* 😄
-- 🎨 I love turning creative ideas into functional web apps
-- 🌍 Open to collaboration on exciting projects
-- 📖 Always exploring new frameworks and best practices
+- 🎯 Currently focused on *self-improvement* and mastering *React, **Tailwind CSS, **Framer Motion*
+- 💻 Working on *Advanced React patterns, Framer Motion animations, state management with Redux Toolkit, and Next.js*
+- 🤝 Looking for help with *optimizing animations & transitions in React projects*
+- 🌱 Building more *interactive projects* and exploring new technologies
+- ⚡ Fun Fact: "I write bugs faster than I fix them 😅"
 
 <br clear="right"/>
 
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFlb2UxcXY0NnloZm0yamk2emttZjNuMnhsdWd6cGZlOHk4dzd4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400"/>
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 Projects & Portfolio
 
-</div>
-
-### 💻 Full Stack Development
-
-#### Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
-</p>
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400"/>
 
 </div>
 
-#### Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
-</p>
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-#### Tools & Practices
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,postman" />
-</p>
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6F00?style=for-the-badge&logo=responsive&logoColor=white)
-
-</div>
+- 🔗 *Open-source frontend projects*: [Explore on GitHub](https://github.com/ADRIANO125)  
+- 🌐 *Portfolio & Experience*: [venom-portfolio.netlify.app](https://venom-portfolio.netlify.app/)  
+- ✍️ *Articles & Insights*: [LinkedIn Blog](https://linkedin.com/in/kadri-devlife)
 
 ---
 
-## 💼 What I Bring to the Table
+## 💬 Ask Me About
 
-```javascript
-const yousefMedhat = {
-  pronouns: "He/Him",
-  location: "Egypt 🇪🇬",
-  role: "Aspiring Full Stack Developer",
-  
-  code: {
-    frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js"],
-    backend: ["Node.js", "Express.js"],
-    databases: ["MongoDB", "PostgreSQL"],
-    testing: ["Jasmine"]
-  },
-  
-  architecture: ["RESTful APIs", "Authentication & Authorization", "Responsive Design"],
-  
-  currentFocus: "Building production-ready MERN stack applications",
-  
-  learning: ["Advanced React Patterns", "PostgreSQL Optimization", "System Design"],
-  
-  askMeAbout: [
-    "Web Development",
-    "MERN Stack",
-    "API Development",
-    "Problem Solving",
-    "Best Practices"
-  ],
-  
-  funFact: "I debug with console.log() and I'm not ashamed! 🚀"
+<img align="left" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="200"/>
+
+javascript
+const expertise = {
+  frontend: ['React', 'Next.js', 'TypeScript'],
+  styling: ['Tailwind CSS', 'CSS3', 'Bootstrap'],
+  animation: ['Framer Motion', 'CSS Animations'],
+  stateManagement: ['Redux Toolkit', 'Context API'],
+  practices: ['Clean Code', 'Responsive Design', 'Performance Optimization']
 };
-```
+
+
+<br clear="left"/>
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDhyOWZlMmw1eG14dDIwM3VzOHA2MTl2bWpyZmloZW00dWZ4cGl4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vLpclx5lofmqnEswm0/giphy.gif" width="400"/>
+## 🛠 Languages & Tools
 
-## 📊 GitHub Statistics
+<img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="400"/>
 
+</div>
+
+### Frontend Technologies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousef-medhat56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-medhat56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
+<a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/></a>
 </p>
 
+### Styling & Design
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef-medhat56&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a>
 </p>
 
+### Backend & Tools
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousef-medhat56&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
+<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
+<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>
 </p>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+<img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="300"/>
+
+### 📧 Email: *abdulrahmankadri12@gmail.com*
+
+<p align="center">
+<a href="https://linkedin.com/in/kadri-devlife" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+</a>
+<a href="https://www.facebook.com/share/16vmromfdc/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" />
+</a>
+<a href="https://www.instagram.com/abdulrahman_kadri" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+</a>
+</p>
+
+<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" width="400"/>
+
+---
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
 
 </div>
 
 ---
 
-## 🎯 Development Philosophy
-
 <div align="center">
 
-| Principle | Description |
-|:---|:---|
-| 🎨 **Clean Code** | Writing readable, maintainable, and well-documented code |
-| 🧪 **Test-Driven** | Building reliable applications through comprehensive testing |
-| � **Performance** | Optimizing for speed and efficiency in every project |
-| 📱 **Responsive** | Creating seamless experiences across all devices |
-| 🔐 **Security** | Implementing robust authentication and data protection |
-| 🌱 **Continuous Learning** | Always exploring new technologies and best practices |
+*⭐ From [ADRIANO125](https://github.com/ADRIANO125) with 💙*
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVpbjNlamNxaDA3MnJtNnRzY21yZ29rd2tmajN4anhpNmtoc3dxbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UTSoX7Q4bvRSDwqmLE/giphy.gif" width="300"/>
-
-## 📫 Let's Connect & Collaborate
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-### 📧 Contact Me
-
-| Platform | Link |
-|:---:|:---|
-| 🌐 **Website** | [yousef-medhat.com](https://yousef-medhat.com) |
-| 💼 **LinkedIn** | [Yousef Medhat](https://www.linkedin.com/in/yousef-medhat56) |
-| 📸 **Instagram** | [@YousefMedhat56](https://www.instagram.com/YousefMedhat56) |
-| 📧 **Email** | [yousef.medhat564@gmail.com](mailto:yousef.medhat564@gmail.com) |
-
-### 👥 Find Me As
-
-```
-yousef_medhat56  |  yousef-medhat56  |  yousefmedhat56
-```
-
----
-
-### 💭 Quote I Live By
-
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-**⭐ From [yousef-medhat56](https://github.com/yousef-medhat56) with 💙**
+![Profile Views](https://komarev.com/ghpvc/?username=ADRIANO125&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
